@@ -12,7 +12,7 @@ Esse projeto foi feito para automatizar o cadastro de pedidos de lentes Zeiss em
 
 ### Tecnologias Usadas
 
-- **Python**: O coração do projeto.
+- **Python**
 - **Webscraping**:
   - `Selenium` para extração e inserção dos dados, tanto no site de pedidos como no site da premiação.
 
